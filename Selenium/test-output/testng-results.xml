@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-20T08:28:25Z" name="Default suite" finished-at="2021-10-20T08:28:28Z" duration-ms="2791">
+  <suite started-at="2021-10-22T09:05:54Z" name="Default suite" finished-at="2021-10-22T09:05:57Z" duration-ms="3070">
     <groups>
     </groups>
-    <test started-at="2021-10-20T08:28:25Z" name="Default test" finished-at="2021-10-20T08:28:28Z" duration-ms="2791">
+    <test started-at="2021-10-22T09:05:54Z" name="Default test" finished-at="2021-10-22T09:05:57Z" duration-ms="3070">
       <class name="com.google.GoogleTest">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.google.GoogleTest@68f4865]" started-at="2021-10-20T08:28:25Z" name="beforeTest" finished-at="2021-10-20T08:28:25Z" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.google.GoogleTest@68f4865]" started-at="2021-10-22T09:05:54Z" name="beforeTest" finished-at="2021-10-22T09:05:54Z" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method signature="f()[pri:0, instance:com.google.GoogleTest@68f4865]" started-at="2021-10-20T08:28:25Z" name="f" finished-at="2021-10-20T08:28:28Z" duration-ms="2760" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.google.GoogleTest@68f4865]" started-at="2021-10-22T09:05:54Z" name="f" finished-at="2021-10-22T09:05:57Z" duration-ms="3044" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.google.GoogleTest@68f4865]" started-at="2021-10-20T08:28:28Z" name="afterTest" finished-at="2021-10-20T08:28:28Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.google.GoogleTest@68f4865]" started-at="2021-10-22T09:05:57Z" name="afterTest" finished-at="2021-10-22T09:05:57Z" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
